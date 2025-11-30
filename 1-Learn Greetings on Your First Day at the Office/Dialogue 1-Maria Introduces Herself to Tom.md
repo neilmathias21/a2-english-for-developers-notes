@@ -19,3 +19,18 @@ Maria (team lead) welcomes Tom (new graphic designer) and shows him his workspac
 | **Drawing tablet** | Device used for digital illustration | *Designers use a drawing tablet for sketching.* |
 
 ---
+
+## 🗣 Key Phrases & Expressions
+
+| Phrase | Meaning / Use | Example |
+|--------|---------------|---------|
+| **Hello. You're the new [role], right?** | Confirming someone’s role politely | *You’re the new developer, right?* |
+| **I’m [name], the [job-title]** | Introducing yourself with name + job title | *I’m Sarah, the project manager.* |
+| **It’s a pleasure to meet you.** | Formal polite greeting | *It’s a pleasure to meet you, Mr. Patel.* |
+| **Welcome aboard.** | Welcoming someone who just joined | *Welcome aboard! We’re happy to have you.* |
+| **How do you like [project/city/experience] so far?** | Asking about experience/opinion | *How do you like the new project so far?* |
+| **Let me show you to your desk.** | Offering help / guidance | *Let me show you to the conference room.* |
+| **Everything looks great.** | Expression of satisfaction | *The office setup looks great.* |
+| **Thanks for showing me around.** | Expressing gratitude | *Thanks for showing me around the building.* |
+
+---
