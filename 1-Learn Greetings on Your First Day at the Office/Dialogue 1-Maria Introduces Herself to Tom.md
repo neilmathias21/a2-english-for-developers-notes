@@ -10,7 +10,7 @@ Maria (team lead) welcomes Tom (new graphic designer) and shows him his workspac
 
 ---
 
-## 🧠 Vocabulary
+## Vocabulary
 
 | Word | Definition | Example |
 |------|------------|---------|
@@ -20,7 +20,7 @@ Maria (team lead) welcomes Tom (new graphic designer) and shows him his workspac
 
 ---
 
-## 🗣 Key Phrases & Expressions
+## Key Phrases & Expressions
 
 | Phrase | Meaning / Use | Example |
 |--------|---------------|---------|
@@ -32,5 +32,34 @@ Maria (team lead) welcomes Tom (new graphic designer) and shows him his workspac
 | **Let me show you to your desk.** | Offering help / guidance | *Let me show you to the conference room.* |
 | **Everything looks great.** | Expression of satisfaction | *The office setup looks great.* |
 | **Thanks for showing me around.** | Expressing gratitude | *Thanks for showing me around the building.* |
+
+---
+
+## Workplace Communication Tips
+- Always **introduce yourself clearly** with name and role.
+- Use polite language such as **“pleasure to meet you.”**
+- Asking about someone’s experience (e.g., *How do you like it here so far?*) is a friendly way to build relationships.
+
+---
+
+## Useful Sentence Structures
+
+### **Introducing yourself**
+- **Hi, I’m [Name], the [position].**
+- **Nice to meet you / Pleasure to meet you.**
+
+### **Welcoming someone**
+- **Welcome aboard!**
+- **Let me show you around.**
+
+### **Asking for opinions / first impressions**
+- **How do you like [place/team/company] so far?**
+
+---
+
+## Practice Questions
+1. How would you introduce yourself to a new coworker?
+2. How would you respond if someone said *“Welcome aboard!”*
+3. Write two sentences describing how you like your new workplace so far.
 
 ---
