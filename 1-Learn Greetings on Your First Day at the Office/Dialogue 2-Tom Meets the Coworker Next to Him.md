@@ -9,6 +9,29 @@ Tom introduces himself to Sophie, a coworker sitting next to him. They talk abou
 
 ---
 
+## Dialogue Transcript
+**Tom:** Hi there. I'm Tom. I'm the new graphic designer.  
+**Sophie:** Oh, hi Tom. I'm Sophie. I'm a developer.  
+**Sophie:** Where are you from, Tom?  
+**Tom:** I'm from Texas. How about you?  
+**Sophie:** I'm from here in California. Welcome aboard.  
+**Tom:** Thanks. Everybody is so nice around here.  
+**Tom:** Hey, is this one of those standing desks? These are great!  
+**Tom:** It's good to stand up a little instead of just sitting all the time.  
+**Sophie:** That's so true. I'm a bit inactive sitting all the time.  
+**Sophie:** This is a good alternative for me.  
+**Sophie:** But hey, now your desk is just like my desk. You're in luck.  
+**Tom:** Awesome. My computer and drawing tablet are great, too.  
+**Sophie:** Yeah, at this company they're very attentive to these details.  
+**Sophie:** You're going to like it here if you're into cutting-edge gadgets.  
+**Tom:** This is so cool. A standing desk, an ergonomic chair, and an ergonomic mouse.  
+**Tom:** Man, everything is perfect. I'm in love with this place!  
+**Sophie:** So nice to have someone so energetic like you in the team.  
+**Sophie:** Are you ready to begin?  
+**Tom:** Yes, I sure am!  
+
+---
+
 ## Vocabulary
 
 | Word / Phrase | Definition | Example |
