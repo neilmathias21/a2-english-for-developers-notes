@@ -4,7 +4,7 @@
 To improve my professional English skills for writing documentation, communicating with teams, and presenting technical ideas clearly.
 
 ## Course Progress
-- Learn Greetings in your First Day at the Office, Not started
+- Learn Greetings in your First Day at the Office, **IN PROGRESS**
 - Learn Introductions in an Online Team Meeting, Not started
 - Learn Conversation Starters in the Break Room, Not started
 - Learn How to Talk About a Typical Workday and Tasks, Not started
