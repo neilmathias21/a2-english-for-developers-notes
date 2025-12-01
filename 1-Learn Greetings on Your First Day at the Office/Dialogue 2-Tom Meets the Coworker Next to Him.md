@@ -36,16 +36,28 @@ Tom introduces himself to Sophie, a coworker sitting next to him. They talk abou
 
 | Word / Phrase | Definition | Example |
 |---------------|------------|---------|
-| **Standing desk** | Desk designed to be used while standing | *A standing desk helps reduce sitting time.* |
-| **Ergonomic** | Designed for comfort and health | *An ergonomic chair supports posture.* |
-| **Inactive** | Sitting too long with little movement | *I’m inactive when I sit for hours.* |
-| **Attentive** | Caring about small details | *The company is attentive to employee needs.* |
-| **Cutting-edge** | Very modern and advanced | *We use cutting-edge technology.* |
-| **Gadgets** | Small technology devices | *Developers love tech gadgets.* |
+| **Standing desk** | Desk designed to stand while working | I use a standing desk for better posture. |
+| **Ergonomic** | Designed for comfort & health | This ergonomic mouse reduces strain. |
+| **Inactive** | Not moving / low physical activity | Sitting too long makes us inactive. |
+| **Alternative** | A different option or solution | We need an alternative approach. |
+| **Attentive** | Focused, careful about needs | The company is attentive to comfort. |
+| **Cutting-edge** | Modern, advanced technology | We use cutting-edge tools here. |
+| **Gadgets** | Small tech devices | Developers love new gadgets. |
+| **Energetic** | Full of energy and enthusiasm | He’s very energetic at work. |
 
 ---
 
 ## Grammar & Usage Notes
+
+### **Casual greetings**
+- **Hi there** → friendly and informal
+- Used when meeting someone new casually or at work
+
+### **Articles with jobs**
+| Use | Example | Meaning |
+|------|---------|---------|
+| **a / an + job title** | *Tom is a graphic designer.* | One of many / general |
+| **the + job title** | *Tom is the graphic designer.* | Only one in that company |
 
 ### **Using “How about you?”**
 Used to return a question politely:  
@@ -54,14 +66,24 @@ Used to return a question politely:
 ### **Talking about origin**
 | Question | Answer pattern |
 |----------|----------------|
-| Where are you from? | I’m from [place]. |
+| **Where are you from?** | **I’m from [place].** |
+| **How about you?** | Returning the question |
+
+### **Demonstrative pronouns**
+| Pronoun | Use | Example |
+|---------|-----|---------|
+| **this** | singular + near | *This desk* |
+| **that** | singular + farther | *That gadget over there* |
+| **these** | plural + near | *These tools are new* |
+| **those** | plural + farther away | *Those screens over there* |
 
 ### **Contractions in the dialogue**
 | Full Form | Contraction | Example |
 |-----------|-------------|---------|
-| I am | **I’m** | *I’m Tom. I’m the new graphic designer.* |
-| You are | **You’re** | *You’re in luck.* |
-| It is | **It’s** | *It’s good to stand up a little.* |
+| I am | **I’m** | I’m from Texas. |
+| You are | **You’re** | You’re in luck. |
+| They are | **They’re** | They’re very attentive. |
+| It is | **It’s** | It’s good to stand up. |
 
 ### **Comparing habits / preferences**
 | Structure | Example |
@@ -76,6 +98,26 @@ Used to return a question politely:
 | **Man, everything is perfect!** | Strong positive reaction |
 | **I’m in love with this place!** | Very happy about environment |
 
+### **Too**
+- Means **also / as well**
+- *My tablet is great, too.*
+
+### **Into**
+- Means **interested in**
+- *If you’re into gadgets…*
+
+### **Everything**
+- Refers to **all things in a group**
+- *Everything is perfect.*
+
+### **Alternative**
+- Another option / choice  
+- *Standing is a good alternative to sitting.*
+
+### **Ergonomic**
+- Designed for comfort & health  
+- *Ergonomic chair, ergonomic mouse*
+
 ---
 
 ## Key Phrases & Expressions
@@ -89,6 +131,8 @@ Used to return a question politely:
 | **Welcome aboard.** | Friendly welcome to a new teammate | *Welcome aboard, we’re glad to have you!* |
 | **Everybody is so nice around here.** | Complimenting the work environment | *People are helpful around here.* |
 | **You're in luck.** | Used when someone has good fortune | *You're in luck — we have one extra ticket.* |
+| **These are great!** | Showing excitement / positive opinion | *These headphones are great!* |
+| **That's so true** | Strong agreement | *Remote work improves balance — that’s so true.* |
 | **Cutting-edge gadgets** | Very advanced or latest technology | *Our lab works with cutting-edge tools.* |
 | **Are you ready to begin?** | Asking if someone is prepared to start | *Are you ready to begin the meeting?* |
 | **Yes, I sure am!** | Strong positive confirmation | *Are you excited? — Yes, I sure am!* |
@@ -117,11 +161,14 @@ Used to return a question politely:
 - **These are great!**
 
 ### **Expressing enthusiasm**
-- **This is so cool!**
+- **This is so cool! / Awesome!**
 - **I’m in love with this place!**
 
 ### **Offering encouragement**
 - **You’re going to like it here.**
+
+### **Agreeing**
+- **Thats's so true.**
 
 ---
 
@@ -130,6 +177,9 @@ Used to return a question politely:
 2. Ask someone where they are from and respond using **How about you?**
 3. Describe something ergonomic that you use.
 4. Write two sentences showing excitement about a workplace feature.
+5. Describe your workspace using **this / these / that / those**.
+6. Write a sentence using **alternative**.
+7. Write a sentence using **I’m into…**.
 
 ---
 
