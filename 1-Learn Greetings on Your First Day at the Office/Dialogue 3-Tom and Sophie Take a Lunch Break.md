@@ -68,3 +68,41 @@ Used when asking for suggestions, possibilities, or choices:
 | Encourage | **Come on, we can go together.** | Friendly invitation |
 
 ---
+
+## Key Phrases & Expressions
+
+| Phrase | Meaning / Use | Example |
+|--------|---------------|---------|
+| **I'm so hungry** | Expressing strong hunger | *I didn’t eat breakfast — I’m so hungry.* |
+| **Is it lunchtime?** | Confirming time | *Is it break time yet?* |
+| **Are you eating here or going out?** | Asking about meal plans | *Are you eating here or ordering food?* |
+| **Are you interested?** | Asking someone if they want to join | *There’s an event tonight, are you interested?* |
+| **Any favorite [place] around here?** | Asking for suggestions | *Any favorite coffee spot around here?* |
+| **Right down the street** | Very close / short walk | *The store is right down the street.* |
+| **Is that okay for you?** | Confirming preference / comfort | *We’ll meet at 3 PM. Is that okay for you?* |
+| **Sounds great** | Agreeing / accepting politely | *A team lunch? — Sounds great!* |
+| **Within walking distance** | Close enough to walk | *The train station is within walking distance.* |
+| **Come on, we can go together** | Inviting / encouraging someone to join | *Come on, join us!* |
+
+---
+
+## Workplace Communication Tips
+- Inviting coworkers for lunch helps build professional relationships.
+- Asking preferences shows respect and teamwork.
+- Neutral small talk topics strengthen workplace culture.
+- Using polite short responses keeps conversations friendly.
+
+---
+
+## Useful Sentence Structures
+
+| Purpose | Structure |
+|---------|-----------|
+| Express hunger | **I’m so hungry.** |
+| Ask for plans | **Are you eating here or going out?** |
+| Ask for suggestions | **Any favorite places around here?** |
+| Confirm agreement | **Is that okay for you?** — **Sounds great.** |
+| Ask about distance | **Is it within walking distance?** |
+
+---
+
